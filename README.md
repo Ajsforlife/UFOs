@@ -4,7 +4,7 @@
 The purpose of this challenge was to refactor the code we created to eliminate the button and add 5 text search bars where you input the results your looking for. After the searches are typed in when you hit tab or enter or just click off the search bar the results are automatically filtered to provide the filtered results in the table. There are 5 different areas of input.
 
 ## Results
-###Pictures
+### Pictures
 Overview of finalized webpage:
 
 ![image1](https://github.com/Ajsforlife/UFOs/blob/main/challenge_pics/Screenshot%202022-08-12%20122948.png)
